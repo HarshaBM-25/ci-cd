@@ -1,1 +1,4 @@
+curl https://raw.githubusercontent.com/HarshaBM-25/ci-cd/main/test.txt
 hello world
+harsha@harsha-Vivobook-ASUSLaptop-X1502ZA-X1502ZA:~$ 
+
